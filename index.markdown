@@ -1,6 +1,9 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
 ---
+
+# Welcome to my math blog
+
+Check out my [Projects]({{ site.baseurl }}/projects/)  
+or learn [About me]({{ site.baseurl }}/about.html).
+
+Here’s where I’ll write about Fourier transforms, Jekyll, etc.
