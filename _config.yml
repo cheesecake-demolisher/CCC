@@ -33,6 +33,11 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
+remote_theme: pages-themes/cayman@v2.0.1    # latest stable tag
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
